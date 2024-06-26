@@ -34,7 +34,7 @@ body {
 
 /*Section-1 Settings*/
 .indiv-sections section {
-  display: flex;
+
   flex-grow: 1 2;
   flex-basis: auto;
   background: #f2f2f2;
