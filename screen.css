@@ -4,6 +4,7 @@ html {
     background: #fff;
 }
 
+
 /*Body Settings*/
 body {
     background: #fff;
@@ -32,7 +33,14 @@ body {
   padding: 25px;
 }
 
-
+/*Section-1 Settings*/
+.inline-recharging {
+  background-image: url('Images/image(18).png');
+  background-repeat: no-repeat;
+  background-position: unset;
+  float: inline-end;
+  background-size: 40px;
+}
 
 
 /*Navigation Settings*/
@@ -78,6 +86,7 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
+
 
 /*Sticky Header Settings*/
 .sticky {
