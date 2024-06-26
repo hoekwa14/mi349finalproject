@@ -24,8 +24,6 @@ body {
 .indiv-sections {
   display: flex;
   gap: 50px;
-  flex-grow: 1;
-  flex-basis: 0;
   background: #f2f2f2;
   margin-top: 25px;
   padding: 25px;
@@ -42,12 +40,9 @@ body {
 }
 
 .section-1-img {
-  background: no-repeat center / cover url('Images/image(20).png');
+  background: center / contain no-repeat url("Images/image(18).png");
   height: 100%;
   width: 100%;
-  margin-top: 25px;
-  margin-bottom: 25px;
-
 }
 
 .indiv-sections section.section-1-img {
