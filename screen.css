@@ -43,7 +43,7 @@ body {
 }
 
 .section-1-img {
-  background: no-repeat center / cover url('Images/image(20).png');
+  background: no-repeat center / contain url('Images/image(20).png');
   height: auto;
   width: auto;
   margin-top: 5px;
