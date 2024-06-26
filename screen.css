@@ -34,17 +34,9 @@ body {
 }
 
 /*Section-1 Settings*/
-.inline-recharging {
-  background-image: url('Images/image(18).png');
-  background-repeat: no-repeat;
-  background-position: unset;
-  float: inline-end;
-  background-size: 40px;
-}
-
 .section-1-img {
   background: no-repeat bottom / cover url('Images/image(20).png');
-  height: 250px;
+  height: fit-content;
   border-radius: 20px;
 }
 
