@@ -22,7 +22,6 @@ nav {
     display: flex;
     font-weight: bold;
     justify-content: space-between;
-    margin-bottom: 10px;
 }
 
 nav ul {
@@ -61,13 +60,14 @@ a:link {
     text-decoration: underline;
   }
 
+/*Sticky Header Settings*/
 .sticky {
-    background: #f2f2f2;
+    background: #fff;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
     padding: 10px;
-    border-bottom: 1px dotted #5E2B97;
+    border-bottom: solid #5E2B97;
 }
 
 .logo{
