@@ -34,6 +34,7 @@ body {
 
 /*Section-1 Settings*/
 .indiv-sections section {
+  display: flex;
   flex-grow: 1 2;
   flex-basis: auto;
   background: #f2f2f2;
@@ -99,9 +100,7 @@ a:link {
 /*Sticky Header Settings*/
 .sticky {
     background: #f2f2f2;
-    position: -webkit-sticky;
     position: sticky;
-    position: center;
     top: 0;
     padding: 10px;
     border-top: 15px solid #5E2B97;
