@@ -44,6 +44,7 @@ body {
 }
 
 .section-1-img {
+  background: no-repeat center url("Images/image(20).png");
   padding: 0;
 }
 
