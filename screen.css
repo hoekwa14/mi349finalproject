@@ -37,11 +37,14 @@ body {
   background: #f2f2f2;
   border-radius: 20px;
   margin-top: 25px;
-  padding: 20
+}
+
+.indiv-sections section.section-1-text {
+  padding: 20;
 }
 
 .section-1-img {
-  background: center / contain no-repeat url("Images/image(18).png");
+  background: center / contain no-repeat url("Images/image(20).png");
   height: 100%;
   width: 100%;
 }
