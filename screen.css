@@ -1,21 +1,22 @@
+/*Universal Settings*/
 html {
     scroll-behavior: smooth;
     background: #fff;
 }
 
-.sticky {
-    background: #f2f2f2;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    padding: 10px;
-    border-bottom: 1px dotted #ccc;
+body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: Helvetica, sans-serif;
+    line-height: var(--line-height);
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
+    border-bottom: 15px solid ##5E2B97;
+    border-top: 15px solid ##5E2B97;
 }
 
-.logo{
-    border-radius: 20px;
-}
-
+/*Navigation Settings*/
 nav {
     align-items: center;
     display: flex;
@@ -34,6 +35,42 @@ nav ul li {
     margin: 0 0.5rem;
     position: relative;
     text-align: left;
+}
+
+a:link {
     color: #5E2B97;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #5E2B97;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #5E2B97;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #5E2B97;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.sticky {
+    background: #f2f2f2;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    border-bottom: 1px dotted #ccc;
+}
+
+.logo{
+    border-radius: 20px;
 }
 
