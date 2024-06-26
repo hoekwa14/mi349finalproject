@@ -22,7 +22,6 @@ body {
 }
 
 .indiv-sections {
-  border-bottom: 1px dotted #ccc;
   display: flex;
   gap: 50px;
   flex-grow: 1;
@@ -36,7 +35,7 @@ body {
 /*Section-1 Settings*/
 .indiv-sections section {
   flex-grow: 1 2;
-  flex-basis: 0;
+  flex-basis: auto;
   background: #f2f2f2;
   border-radius: 20px;
   margin-top: 25px;
