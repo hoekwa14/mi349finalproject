@@ -44,9 +44,7 @@ body {
 }
 
 .section-1-img {
-  background: center / contain no-repeat url("Images/image(20).png");
-  height: 100%;
-  width: 100%;
+  padding: 0;
 }
 
 .indiv-sections section.section-1-img {
