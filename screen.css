@@ -1,19 +1,19 @@
 /*Universal Settings*/
 html {
     scroll-behavior: smooth;
-    background: #fff;
+    background: #f2f2f2;
 }
 
 body {
-    background: var(--color-bg);
+    background: #fff;
     color: var(--color-text);
     font-family: Helvetica, sans-serif;
     line-height: var(--line-height);
-    margin: 0;
+    margin: 30px;
     overflow-x: hidden;
     padding: 0;
-    border-bottom: 15px solid ##5E2B97;
-    border-top: 15px solid ##5E2B97;
+    border-bottom: 15px solid #5E2B97;
+    border-top: 15px solid #5E2B97;
 }
 
 /*Navigation Settings*/
@@ -67,7 +67,7 @@ a:link {
     position: sticky;
     top: 0;
     padding: 10px;
-    border-bottom: 1px dotted #ccc;
+    border-bottom: 1px dotted #5E2B97;
 }
 
 .logo{
