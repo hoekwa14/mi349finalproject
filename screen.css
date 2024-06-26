@@ -34,7 +34,6 @@ body {
 
 /*Section-1 Settings*/
 .indiv-sections section {
-
   flex-grow: 1 2;
   flex-basis: auto;
   background: #f2f2f2;
@@ -42,7 +41,7 @@ body {
   margin-top: 25px;
 }
 
-.indiv-sections section .section-1-img {
+.section-1-img {
   background: no-repeat center / contain url('Images/image(20).png');
   height: 100%;
   width: 100%;
