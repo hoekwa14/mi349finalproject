@@ -28,11 +28,12 @@ body {
   flex-grow: 1;
   flex-basis: 0;
   background: #f2f2f2;
-  border-radius: 20px;
   margin-top: 25px;
   padding: 25px;
-  
 }
+
+
+
 
 /*Navigation Settings*/
 nav {
