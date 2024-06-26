@@ -34,6 +34,14 @@ body {
 }
 
 /*Section-1 Settings*/
+.indiv-sections section {
+  flex-grow: 1;
+  flex-basis: 0;
+  background: #f2f2f2;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+
 .section-1-img {
   background: no-repeat bottom / cover url('Images/image(20).png');
   height: fit-content;
