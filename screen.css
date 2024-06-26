@@ -4,6 +4,7 @@ html {
     background: #f2f2f2;
 }
 
+/*Body Settings*/
 body {
     background: #fff;
     color: var(--color-text);
@@ -14,6 +15,23 @@ body {
     padding: 0;
     border-bottom: 15px solid #5E2B97;
     border-top: 15px solid #5E2B97;
+}
+
+#main-sections {
+  border-top: 1px dotted #ccc;
+}
+
+.indiv-sections {
+  border-bottom: 1px dotted #ccc;
+  display: flex;
+  gap: 25px;
+  flex-grow: 1;
+  flex-basis: 0;
+  background: #f2f2f2;
+  border-radius: 20px;
+  margin-top: 25px;
+  padding: 25px;
+  
 }
 
 /*Navigation Settings*/
@@ -62,7 +80,7 @@ a:link {
 
 /*Sticky Header Settings*/
 .sticky {
-    background: #fff;
+    background: #f2f2f2;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
