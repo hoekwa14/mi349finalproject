@@ -44,9 +44,8 @@ body {
 
 .section-1-img {
   background: no-repeat bottom / cover url('Images/image(20).png');
-  height: 80%;
-  width: 80%;
-  border-radius: 20px;
+  height: 100%;
+  width: 100%;
 }
 
 
