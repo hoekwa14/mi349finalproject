@@ -42,12 +42,13 @@ body {
   margin-top: 25px;
 }
 
-.section-1-img {
+.indiv-sections section .section-1-img {
   background: no-repeat center / contain url('Images/image(20).png');
   height: 100%;
   width: 100%;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+
 }
 
 
