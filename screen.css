@@ -209,6 +209,7 @@ div.section-5{
 }
 a[href$="about.html"] {
   color: #5E2B97;
+  margin: auto;
 }
 
 /*Navigation Settings*/
