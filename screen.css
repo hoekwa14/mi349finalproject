@@ -140,6 +140,7 @@ a:link {
     padding: 10px;
     border-top: 15px solid #5E2B97;
     border-bottom: 15px solid #5E2B97;
+    z-index: 1;
 }
 
 .logo{
