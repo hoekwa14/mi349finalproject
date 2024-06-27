@@ -96,9 +96,10 @@ div.section-3{
   flex-basis: 0;
   background: transparent;
   border-radius: 20px;
-  margin-top: 25px;
+  margin-top: 10px;
+
 }
-.section-3 section.s3-text {
+.section-3 {
 }
 
 .section-3 section.s3-img1 {
