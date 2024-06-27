@@ -109,13 +109,12 @@ div.s3{
   border-bottom-right-radius: 0px;
   margin-top: 10px;
   margin: 20px;
-  background: no-repeat center / cover url('Images/image(4).png');
+  background: no-repeat top / cover url('Images/image(4).png');
   padding: 0;
   width: 100%;
   height: 80px;
   bottom: 25px;
   position: relative;
-  border-radius: 20px;
 }
 
 .section-3 section.s3-img2 {
@@ -129,7 +128,6 @@ div.s3{
   height: 80px;
   bottom: 25px;
   position: relative;
-  border-radius: 20px;
 }
 
 .section-3 section.s3-img3 {
@@ -137,13 +135,12 @@ div.s3{
   border-bottom-right-radius: 0px;
   margin-top: 10px;
   margin: 20px;
-  background: no-repeat center / cover url('Images/image(6).png');
+  background: no-repeat top / cover url('Images/image(6).png');
   padding: 0;
   width: 100%;
   height: 80px;
   bottom: 25px;
   position: relative;
-  border-radius: 20px;
 }
 
 
