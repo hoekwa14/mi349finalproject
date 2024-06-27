@@ -40,8 +40,12 @@ div.section-1{
   border-radius: 20px;
   margin-top: 25px;
 }
+section.s1-txt {
+  display: flex;
 
+}
 section.s1-img {
+  display: flex;
   background: no-repeat cover/80% url("Images/image(20).png");
   padding: 0;
 }
