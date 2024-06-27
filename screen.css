@@ -279,3 +279,6 @@ a:link {
   margin: auto;
 }
 
+form{
+  border-radius: 20px;
+}
