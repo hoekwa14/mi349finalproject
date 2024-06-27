@@ -40,14 +40,14 @@ div.section-1 section{
   border-radius: 20px;
   margin-top: 25px;
 }
-section.s1-txt {
+.section-1 section.s1-txt {
   display: flex;
   order: 1;
   align-self: left;
   width: 572px;
 
 }
-section.s1-img {
+.section-1 section.s1-img {
   order: 2;
   align-self: right;
 
