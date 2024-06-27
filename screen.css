@@ -27,7 +27,7 @@ body {
   margin-top: 25px;
   padding: 25px;
   height: 250px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 
@@ -211,6 +211,10 @@ div.section-5{
 a[href$="about.html"] {
   color: #5E2B97;
   margin: auto;
+}
+
+.indiv-sections .section-5{
+  margin-bottom: 0;
 }
 
 /*Navigation Settings*/
