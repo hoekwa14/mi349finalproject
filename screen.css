@@ -212,6 +212,9 @@ div.section-5{
   right: 25px;
   position: relative;
 }
+a[href$="about.html"] {
+  color: #5E2B97;
+}
 
 /*Navigation Settings*/
 nav {
