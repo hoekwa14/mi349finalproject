@@ -172,19 +172,6 @@ div.section-4{
   right: 25px;
   position: relative;
 }
-.section-4 section.s4-text {
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
-  margin-top: 0;
-  margin-right: 0;
-  background: no-repeat center / cover url('Images/image(23).png');
-  padding: 0;
-  width: 90%;
-  height: 300px;
-  bottom: 50px;
-  right: 25px;
-  position: static;
-}
 
 /*Section-5 Settings*/
 div.section-5{
