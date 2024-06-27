@@ -42,10 +42,15 @@ div.section-1{
 }
 section.s1-txt {
   display: flex;
+  order: 1;
+  align-self: left;
+  width: 572px;
 
 }
 section.s1-img {
-  display: flex;
+  order: 2;
+  align-self: right;
+
   background: #5E2B974;
   padding: 0;
 }
