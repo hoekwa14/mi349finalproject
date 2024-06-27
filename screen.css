@@ -32,7 +32,7 @@ body {
 
 
 /*Section-1 Settings*/
-.section-1 section{
+div.section-1{
   display: flex;
   flex-grow: 1 2;
   flex-basis: auto;
@@ -41,16 +41,12 @@ body {
   margin-top: 25px;
 }
 
-.indiv-sections section.section-1-text {
+section.s1-text {
   padding: 20;
 }
 
-.section-1-img {
+section.s1-img {
   background: no-repeat center url("Images/image(20).png");
-  padding: 0;
-}
-
-.indiv-sections section.section-1-img {
   padding: 0;
 }
 
