@@ -85,6 +85,10 @@ div.section-2{
   position: relative;
 }
 
+.section-2 li {
+  margin: 5px 0;
+}
+
 /*Section-3 Settings*/
 div.section-3{
   display: flex;
