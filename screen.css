@@ -105,6 +105,13 @@ div.s3{
   bottom: 45px;
 }
 
+.section-3 p{
+  position:relative;
+  margin-left: 38%;
+  margin-right: 38%;
+  bottom:-25pc;
+}
+
 .section-3 section.s3-img1 {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
