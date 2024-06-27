@@ -148,7 +148,8 @@ a:link {
 }
 
 .logo{
-    border-radius: 20px;
-    margin: auto;
+  display: block;
+  border-radius: 20px;
+  margin: auto;
 }
 
