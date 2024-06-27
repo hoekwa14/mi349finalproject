@@ -161,7 +161,7 @@ div.section-4{
 }
 .section-4 section.s4-text {
   width: 572px;
-
+  bottom: 50px;
 }
 .section-4 section.s4-img {
   border-bottom-left-radius: 0px;
@@ -188,6 +188,7 @@ div.section-5{
 }
 .section-5 section.s5-text {
   width: 572px;
+  bottom: 50px;
 
 }
 .section-5 section.s5-img {
