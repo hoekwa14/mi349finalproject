@@ -46,7 +46,7 @@ section.s1-txt {
 }
 section.s1-img {
   display: flex;
-  background: no-repeat cover/80% url("Images/image(20).png");
+  background: #5E2B974;
   padding: 0;
 }
 
