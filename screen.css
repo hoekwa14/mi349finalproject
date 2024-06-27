@@ -95,8 +95,8 @@ div.section-3{
   flex-grow: .75;
   flex-basis: 0;
   background: transparent;
-  border-radius: 20px;
-  margin-top: 10px;
+  border-radius: 20px 0;
+  margin-top: 0px;
 
 }
 .section-3 {
