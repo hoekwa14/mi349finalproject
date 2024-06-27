@@ -208,7 +208,7 @@ div.section-5{
   right: 25px;
   position: relative;
 }
-.purchase a[href$="about.html"] {
+.purchase {
   color: #5E2B97;
   margin: auto;
   margin-bottom: 25px;
