@@ -47,6 +47,7 @@ div.section-1{
 .section-1 section.s1-img {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
+  margin-top: 0px;
   background: #5E2B97;
   padding: 0;
   width: fit-content;
