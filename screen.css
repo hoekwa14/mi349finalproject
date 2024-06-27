@@ -159,10 +159,6 @@ div.section-4{
   border-radius: 20px;
   margin-top: 25px;
 }
-.section-4 section.s4-text {
-  width: 572px;
-
-}
 .section-4 section.s4-img {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
@@ -176,7 +172,7 @@ div.section-4{
   left: 25px;
   position: relative;
 }
-.section-4 section.s4-table {
+.section-4 section.s4-text {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
