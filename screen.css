@@ -90,6 +90,14 @@ div.section-2{
 }
 
 /*Section-3 Settings*/
+.indiv-sections .section-3{
+  gap: 50px;
+  background: #f2f2f2;
+  margin-top: 25px;
+  padding: 25px;
+  height: 350px;
+}
+
 div.section-3{
   display: flex;
   flex-grow: .75;
