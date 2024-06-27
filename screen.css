@@ -216,11 +216,6 @@ a[href$="about.html"] {
   text-align: center;
 }
 
-li a[href$=".html"] {
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
 .indiv-sections .section-5{
   margin-bottom: 0;
 }
