@@ -49,7 +49,7 @@ div.section-1{
   border-bottom-right-radius: 0px;
   margin-top: 0;
   margin-right: 0;
-  background: #5E2B97;
+  background: no-repeat center / cover url('Images/image(20).png');
   padding: 0;
   width: 100%;
   height: 300px;
