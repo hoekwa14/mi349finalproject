@@ -32,7 +32,7 @@ body {
 
 
 /*Section-1 Settings*/
-section.section-1 {
+.section-1 section{
   display: flex;
   flex-grow: 1 2;
   flex-basis: auto;
