@@ -99,14 +99,13 @@ div.section-3{
   margin-top: 25px;
 }
 .section-3 section.s3-text {
-  width: 572px;
-
 }
+
 .section-3 section.s3-img1 {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
-  margin-right: 0;
+  margin: 25px;
   background: no-repeat center / cover url('Images/image(20).png');
   padding: 0;
   width: 100%;
@@ -118,7 +117,7 @@ div.section-3{
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
-  margin-right: 0;
+  margin: 25px;
   background: no-repeat center / cover url('Images/image(20).png');
   padding: 0;
   width: 100%;
@@ -131,7 +130,7 @@ div.section-3{
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
-  margin-right: 0;
+  margin: 25px;
   background: no-repeat center / cover url('Images/image(20).png');
   padding: 0;
   width: 100%;
