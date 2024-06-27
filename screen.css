@@ -42,7 +42,7 @@ div.section-1{
 }
 
 section.s1-img {
-  background: no-repeat cover/80% url url("Images/image(20).png");
+  background: no-repeat cover/80% url("Images/image(20).png");
   padding: 0;
 }
 
