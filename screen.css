@@ -110,7 +110,7 @@ div.s3{
   bottom:-90px;
 }
 
-.section-3 section.s3-img1 {
+.section-3 .s3-img1 {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 10px;
@@ -118,13 +118,13 @@ div.s3{
   background: no-repeat center / cover url('Images/image(4).png');
   padding: 10px;
   width: 80%;
-  height: 180px;
+  height: 170px;
   bottom: 25px;
   position: relative;
   border-radius: 20px;
 }
 
-.section-3 section.s3-img2 {
+.section-3 .s3-img2 {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 10px;
@@ -132,13 +132,13 @@ div.s3{
   background: no-repeat center / cover url('Images/image(5).png');
   padding: 10px;
   width: 80%;
-  height: 180px;
+  height: 170px;
   bottom: 25px;
   position: relative;
   border-radius: 20px;
 }
 
-.section-3 section.s3-img3 {
+.section-3 .s3-img3 {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 10px;
@@ -146,7 +146,7 @@ div.s3{
   background: no-repeat top / cover url('Images/image(6).png');
   padding: 10px;
   width: 80%;
-  height: 180px;
+  height: 170px;
   bottom: 25px;
   position: relative;
   border-radius: 20px;
