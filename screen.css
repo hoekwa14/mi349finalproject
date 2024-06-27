@@ -22,7 +22,7 @@ body {
 }
 
 .indiv-sections {
-  gap: 50px;
+  gap: 100px;
   background: #f2f2f2;
   margin-top: 25px;
   padding: 25px;
@@ -287,4 +287,8 @@ form{
 form h2{
   margin-left: 25px;
   text-align: center;
+}
+
+form img{
+  margin-bottom: 25px;
 }
