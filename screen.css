@@ -183,7 +183,7 @@ div.section-4{
   height: 300px;
   bottom: 50px;
   right: 25px;
-  position: relative;
+  position: static;
 }
 
 /*Section-5 Settings*/
