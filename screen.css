@@ -40,11 +40,11 @@ div.section-1{
   border-radius: 20px;
   margin-top: 25px;
 }
-.section-1 section.s1-text {
+.section-1 .s1-text {
   width: 572px;
 
 }
-.section-1 section.s1-img {
+.section-1 .s1-img {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
@@ -67,11 +67,11 @@ div.section-2{
   border-radius: 20px;
   margin-top: 25px;
 }
-.section-2 section.s2-text {
+.section-2 .s2-text {
   width: 572px;
 
 }
-.section-2 section.s2-img {
+.section-2 .s2-img {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
@@ -162,11 +162,11 @@ div.section-4{
   border-radius: 20px;
   margin-top: 25px;
 }
-.section-4 section.s4-text {
+.section-4 .s4-text {
   width: 572px;
   bottom: 50px;
 }
-.section-4 section.s4-img {
+.section-4 .s4-img {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
@@ -189,12 +189,12 @@ div.section-5{
   border-radius: 20px;
   margin-top: 25px;
 }
-.section-5 section.s5-text {
+.section-5 .s5-text {
   width: 572px;
   bottom: 50px;
 
 }
-.section-5 section.s5-img {
+.section-5 .s5-img {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   margin-top: 0;
@@ -280,5 +280,3 @@ a:link {
 form{
   border-radius: 20px;
 }
-
-/*Image Headers*/
